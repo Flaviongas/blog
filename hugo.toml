@@ -1,0 +1,27 @@
+baseURL = 'https://flavio02.matyplop.cl/blog'
+languageCode = 'en-us'
+DefaultContentLanguage = "en"
+title = 'Cogito ergo scribo'
+theme = 'risotto'
+[params.theme]
+palette = "style"
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["page"]
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = false
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
