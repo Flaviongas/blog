@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cogito ergo scribo</title>
-    <link>https://flavio02.matyplop.cl/blog/tags/</link>
+    <link>https://flavio02.matyplop.cl/hugo/public/tags/</link>
     <description>Recent content in Tags on Cogito ergo scribo</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://flavio02.matyplop.cl/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://flavio02.matyplop.cl/hugo/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

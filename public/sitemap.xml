@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://flavio02.matyplop.cl/blog/</loc>
+    <loc>https://flavio02.matyplop.cl/hugo/public/</loc>
     <lastmod>2024-08-25T00:18:09-04:00</lastmod>
   </url><url>
-    <loc>https://flavio02.matyplop.cl/blog/posts/1/</loc>
+    <loc>https://flavio02.matyplop.cl/hugo/public/posts/1/</loc>
     <lastmod>2024-08-25T00:18:09-04:00</lastmod>
   </url><url>
-    <loc>https://flavio02.matyplop.cl/blog/posts/</loc>
+    <loc>https://flavio02.matyplop.cl/hugo/public/posts/</loc>
     <lastmod>2024-08-25T00:18:09-04:00</lastmod>
   </url><url>
-    <loc>https://flavio02.matyplop.cl/blog/categories/</loc>
+    <loc>https://flavio02.matyplop.cl/hugo/public/categories/</loc>
   </url><url>
-    <loc>https://flavio02.matyplop.cl/blog/tags/</loc>
+    <loc>https://flavio02.matyplop.cl/hugo/public/tags/</loc>
   </url>
 </urlset>
