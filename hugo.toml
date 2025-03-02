@@ -1,4 +1,4 @@
-baseURL = 'https://flavio02.matyplop.cl/hugo/public'
+baseURL = 'https://berkano.xyz/hugo/public'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Cogito ergo scribo'
