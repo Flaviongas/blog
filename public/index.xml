@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cogito ergo scribo</title>
+    <link>http://localhost:1313/hugo/public/</link>
+    <description>Recent content on Cogito ergo scribo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 01:42:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Razones para usar Linux</title>
+      <link>http://localhost:1313/hugo/public/posts/5/</link>
+      <pubDate>Mon, 26 Jan 2026 01:42:42 -0400</pubDate>
+      <guid>http://localhost:1313/hugo/public/posts/5/</guid>
+      <description>&lt;p&gt;Gente no técnica me ha preguntado varias veces por qué ocupo Linux, o por qué debería una persona normal usar Linux en vez de Windows. Nunca puedo dar una respuesta que me sea satisfactoria, por lo que hice esta publicación con el único propósito de tener una respuesta estructurada. Empecemos por las:&lt;/p&gt;&#xA;&lt;h1 id=&#34;razones-para-personas-comúnes&#34;&gt;Razones para personas comúnes&lt;/h1&gt;&#xA;&lt;h2 id=&#34;no-necesitas-antivirus&#34;&gt;No necesitas antivirus&lt;/h2&gt;&#xA;&lt;p&gt;Prácticamente no hay virus para Linux, cada distribución y sistema varía tanto que es complejo hasta diseñar virus.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Spirituality as a means of emotion processing</title>
+      <link>http://localhost:1313/hugo/public/posts/4/</link>
+      <pubDate>Sun, 15 Sep 2024 14:17:47 -0400</pubDate>
+      <guid>http://localhost:1313/hugo/public/posts/4/</guid>
+      <description>&lt;p&gt;I firmly stand by the belief that all religion, spirituality, and esoteric magic is just a way to avoid the existential dread and the chaos in the world.&lt;/p&gt;&#xA;&lt;p&gt;We humans have a tendency to search for the cause of any problem, but sometimes there just isn&amp;rsquo;t one. This causes us a lot of pain, we evolved to see causality, to search patterns and explanations, not finding one doesn&amp;rsquo;t feel right.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The cycle of laugh and shame</title>
+      <link>http://localhost:1313/hugo/public/posts/3/</link>
+      <pubDate>Sun, 01 Sep 2024 02:06:42 -0400</pubDate>
+      <guid>http://localhost:1313/hugo/public/posts/3/</guid>
+      <description>&lt;p&gt;So i&amp;rsquo;ve been thinking, since i disconnected from most social networks i can&amp;rsquo;t seem to understand the new memes.&lt;/p&gt;&#xA;&lt;p&gt;So that got me thinking about this of this weird series called Skibidi Toilet. We all laugh at people who like it because it doesn&amp;rsquo;t make sense at all.&lt;/p&gt;&#xA;&lt;p&gt;But in reality is not any different to the Youtube Poops or MLG edits and the gmod animations. They are the same in essence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On spirituality and philosophy</title>
+      <link>http://localhost:1313/hugo/public/posts/2/</link>
+      <pubDate>Wed, 28 Aug 2024 14:17:47 -0400</pubDate>
+      <guid>http://localhost:1313/hugo/public/posts/2/</guid>
+      <description>&lt;p&gt;I have found that a lot of people think that philosophy and spirituality are closely related. But they are not.&lt;/p&gt;&#xA;&lt;p&gt;Philosophy aims to answer any question that can not be answered, and from which the more important ones are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What is the meaning of life?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;What happens after we die?&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A lot of people answer these questions with their religion, their belief gives meaning to all of the human experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I don&#39;t like using ai</title>
+      <link>http://localhost:1313/hugo/public/posts/1/</link>
+      <pubDate>Sun, 25 Aug 2024 00:18:09 -0400</pubDate>
+      <guid>http://localhost:1313/hugo/public/posts/1/</guid>
+      <description>&lt;p&gt;Is not that i don&amp;rsquo;t like AI, i love the concept and the works of fiction created around it, i love the math and effort that went into creating.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a marvel of technology, something never seen before.&lt;/p&gt;&#xA;&lt;p&gt;But when people start creating stuff with it: Art, Poems, Stories and Code, it doesn&amp;rsquo;t seem moral. It&amp;rsquo;s like you&amp;rsquo;re stripping the effort and the meaning out of the product. For me the value of things it&amp;rsquo;s the effort that you put into it, not the finished result.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
