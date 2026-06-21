@@ -1,8 +1,12 @@
 +++
-title = 'Razones para usar Linux'
+title = 'linux-EN.md'
 draft = false
 date = 2026-01-26T01:42:42-04:00
 +++
+
+vim linux-EN.md
+...
+...
 
 Gente no técnica me ha preguntado varias veces por qué ocupo Linux, o por qué debería una persona normal usar Linux en vez de Windows. Nunca puedo dar una respuesta que me sea satisfactoria, por lo que hice esta publicación con el único propósito de tener una respuesta estructurada. Empecemos por las:
 
@@ -59,3 +63,5 @@ Es muy probable que surja un problema que requiera el uso de la terminal.
 
 ## El sistema funciona muy distinto
 Hay que hacer un esfuerzo por reconceptualizar cómo funciona un PC y aprender conceptos nuevos que usualmente nunca tendrías que pensar.
+
+ZZ

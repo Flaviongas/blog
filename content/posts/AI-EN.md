@@ -1,8 +1,13 @@
 +++
-title = "I don't like using ai"
+title = "AI-EN.md"
 date = 2024-08-25T00:18:09-04:00
 draft = false
 +++
+
+vim AI-EN.md
+...
+...
+
 Is not that i don't like AI, i love the concept and the works of fiction created around it, i love the math and effort that went into creating.
 
 It's a marvel of technology, something never seen before.
@@ -26,3 +31,4 @@ I can do so much stuff without ai, good quality pages and presentations. If i we
 
 I'm not totally closed to the idea, but i have to think it more.
 
+ZZ

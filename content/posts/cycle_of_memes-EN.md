@@ -1,8 +1,12 @@
 +++
-title = 'The cycle of laugh and shame'
+title = 'cycle_of_memes-EN.md'
 date = 2024-09-01T02:06:42-04:00
 draft = false
 +++
+
+vim cycle_of_memes-EN.md
+...
+...
 
 So i've been thinking, since i disconnected from most social networks i can't seem to understand the new memes.
 
@@ -17,3 +21,5 @@ I remember when people made fun of me for playing Minecraft or videogames in gen
 If we expect them to only play or see *the right thing* we are striping them of their freedom of choice.
 
 And some of you may say, this whole post doesn't matter at all. But i think it does, if we don't stop the patterns we act upon, who will?
+
+ZZ

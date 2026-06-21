@@ -1,8 +1,12 @@
 +++
-title = 'On spirituality and philosophy'
+title = 'spirituality_philosophy-EN.md'
 date = 2024-08-28T14:17:47-04:00
 draft = false
 +++
+
+vim spirituality_philosophy-EN.md
+...
+...
 
 I have found that a lot of people think that philosophy and spirituality are closely related. But they are not.
 
@@ -29,3 +33,5 @@ Most of philosophy tries to give meaning to life just by the use of logic and re
 And i understand the confusion, it just so happens that both try to give an answer to the same question. But the approach is completely different.
 
 They are not the same.
+
+ZZ
