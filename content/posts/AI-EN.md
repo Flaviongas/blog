@@ -8,7 +8,7 @@ vim AI-EN.md
 ...
 ...
 
-Is not that i don't like AI, i love the concept and the works of fiction created around it, i love the math and effort that went into creating.
+Is not that i don't like AI, i love the concept and the works of fiction created around it, i love the math and effort that went into creating it.
 
 It's a marvel of technology, something never seen before.
 
@@ -16,10 +16,10 @@ But when people start creating stuff with it: Art, Poems, Stories and Code, it d
 
 I think that when you start using these AIs, you become dependent, you stop looking for solutions and get used to asking it stuff.
 
-But here is the real issue, it does give good results. I have spent soooo much time into my projects, and yeah they're good, i'm proud of them, but i would have done them faster using ai.
+But here is the real issue, it does give good results. I have spent soooo much time into my projects, and yeah they're good, i'm proud of them, but i would have done them faster using AI.
 
 A professor told me:
-> "People using ai have an advantage"
+> "People using AI have an advantage"
 
 and he's right, you DO get stuff done faster, and you still have to do some kind of work.
 
@@ -27,7 +27,7 @@ But it doesn't feel right. Am i too much of an idealist? I want to do stuff manu
 
 Is there some kind of compromise? A point where i still put effort and get stuff done quickly at the same time?
 
-I can do so much stuff without ai, good quality pages and presentations. If i were to use ai to help me, i could do so much more, right?
+I can do so much stuff without AI, good quality pages and presentations. If i were to use ai to help me, i could do so much more, right?
 
 I'm not totally closed to the idea, but i have to think it more.
 
