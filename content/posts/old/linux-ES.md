@@ -1,12 +1,10 @@
 +++
-title = 'linux-EN.md'
+title = 'linux-ES.md'
 draft = false
 date = 2026-01-26T01:42:42-04:00
 +++
 
-vim linux-EN.md
-...
-...
+vim linux-ES.md
 
 Gente no técnica me ha preguntado varias veces por qué ocupo Linux, o por qué debería una persona normal usar Linux en vez de Windows. Nunca puedo dar una respuesta que me sea satisfactoria, por lo que hice esta publicación con el único propósito de tener una respuesta estructurada. Empecemos por las:
 
@@ -36,7 +34,7 @@ Dado que la mayoría de programas específicos de Linux son de código abierto, 
 # Razones personales
 
 ## Su señoría, laburo
-[96.3% de los servidores web usan Linux](https://truelist.co/blog/linux-statistics/), []() , por lo que se vuelve una habilidad muy práctica de aprender, si o si en la un informático tendrá que ocupar Linux. La virtualización está implementada a nivel de kernel, por lo que las máquinas virtuales y tecnologías de contenedores como Dockers se ejecutan nativamente. Además, usar Linux te obliga a entender cómo funciona un sistema operativo.
+[96.3% de los servidores web usan Linux](https://truelist.co/blog/linux-statistics/), por lo que se vuelve una habilidad muy práctica de aprender, si o si en la un informático tendrá que ocupar Linux. La virtualización está implementada a nivel de kernel, por lo que las máquinas virtuales y tecnologías de contenedores como Dockers se ejecutan nativamente. Además, usar Linux te obliga a entender cómo funciona un sistema operativo.
 
 ## Control completo del sistema
 Tengo completamente scripteado todo mi sistema, tengo 2 monitores y, al momento de encender mi PC, se crean 3 workspaces (como los Escritorios Virtuales de Windows); en el número 1 se abre Firefox, en el 2 mi gestor de emails (Thunderbird), en el 3 Discord y WhatsApp. Posteriormente, se corre un script que obtiene los últimos cambios de todos mis proyectos (ya sea porque trabajé en otro PC o trabajo con otra persona) y se selecciona un fondo aleatorio de una carpeta que tengo.
@@ -50,7 +48,7 @@ Hay un cierto orgullo artístico en armar mi propio sistema desde 0, yo diseñé
 Este es el mejor software de audio que he visto en mi vida; permite modificar dispositivos de entrada y salida de audio. Su punto más fuerte es que cuenta con muchísimos filtros, los cuales ocupo para mejorar la calidad de audio de mi microfono.
 
 ## NixOS
-Ocupo una distribución muy esotérica llamada NixOS, que permite configurar todo el sistema en un solo archivo en un lenguaje de programación llamado Nix. La ventaja de este sistema es que, para instalar programas, abrir puertos, crear usuarios y hacer cualquier cosa, solo tengo que modificar ese archivo, el cual puedo copiar a otro PC para tener mi sistema nuevamente. Bajo este sistema, **mi PC es un archivo**.
+Ocupo una distribución muy esotérica de Linux llamada NixOS, que permite configurar todo el sistema en un solo archivo en un lenguaje de programación llamado Nix. La ventaja de este sistema es que, para instalar programas, abrir puertos, crear usuarios y hacer cualquier cosa, solo tengo que modificar ese archivo, el cual puedo copiar a otro PC para tener mi sistema nuevamente. Bajo este sistema, **mi PC es un archivo**.
 
 # Anti-Razones
 Aquí hay un par de razones por las que no es beneficioso instalar Linux:
@@ -64,4 +62,4 @@ Es muy probable que surja un problema que requiera el uso de la terminal.
 ## El sistema funciona muy distinto
 Hay que hacer un esfuerzo por reconceptualizar cómo funciona un PC y aprender conceptos nuevos que usualmente nunca tendrías que pensar.
 
-ZZ
+:wq!

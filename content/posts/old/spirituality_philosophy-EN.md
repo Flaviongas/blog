@@ -5,24 +5,20 @@ draft = false
 +++
 
 vim spirituality_philosophy-EN.md
-...
-...
 
 I have found that a lot of people think that philosophy and spirituality are closely related. But they are not.
 
 Philosophy aims to answer any question that can not be answered, and from which the more important ones are:
 
 - What is the meaning of life?
-
-- What happens after we die?
+- What is conciousness?
+- What is our goal or objetive as human beings?
 
 A lot of people answer these questions with their religion, their belief gives meaning to all of the human experience.
 
 Some people don't really believe in any religion but are spiritual nonetheless, and they try to answer these questions by other means.
 
 Tarot, Zodiac, Arcana, Wicca are all examples of the same thing: To give life and the chaos inherent to it some order, some sense.
-
-And yeah, philosophy tries to do the same. But philosophy has many areas for reasoning about it: Realism, Rationalism, Empirism, Metaphysics, etc.
 
 But the main objetive of Philosophy is to try to answer any questions and challenge the answers, not just to give life meaning.
 
@@ -34,4 +30,4 @@ And i understand the confusion, it just so happens that both try to give an answ
 
 They are not the same.
 
-ZZ
+:wq!

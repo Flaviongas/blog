@@ -5,8 +5,6 @@ draft = false
 +++
 
 vim AI-EN.md
-...
-...
 
 Is not that i don't like AI, i love the concept and the works of fiction created around it, i love the math and effort that went into creating it.
 
@@ -31,4 +29,4 @@ I can do so much stuff without AI, good quality pages and presentations. If i we
 
 I'm not totally closed to the idea, but i have to think it more.
 
-ZZ
+:wq!

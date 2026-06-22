@@ -5,8 +5,6 @@ draft = false
 +++
 
 vim spirituality_as_emotion_processing-EN.md
-...
-...
 
 I firmly stand by the belief that all religion, spirituality, and esoteric magic is just a way to avoid the existential dread and the chaos in the world.
 
@@ -20,8 +18,8 @@ The Zodiac tries to categorize people based on their birth date. Isn't that way 
 
 Rituals, voodo dolls, "amarres". Are they ways of trying to control people, destiny, or causality? The world is just too chaotic; doesn't this try to give means of control to regular people?
 
-The human mind tries to simplify, to generalize, to understand and connect every piece of information we get. But this creates unscientific conclusions, superstitions, and irrationality.
+The human mind tries to simplify, to generalize, to understand and connect every piece of information we get. But this may create unscientific conclusions, superstitions, and irrationality.
 
 We have to improve our critical thinking skills; if we don't, we are condemned to live in a world of magic and spirits.
 
-ZZ
+:wq!
